@@ -13,3 +13,4 @@ These are some HTML and CSS examples I wrote and gathered from various places, a
 - [Quiz](./quiz/): Accessability
 - [Tribute Page](./tribute_page/): Various topics
 - [Balance Sheet](./balance_sheet/): CSS Pseudo Selectors
+- [Cat Painting](./cat_painting/): Intermediate CSS
