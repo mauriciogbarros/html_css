@@ -1,0 +1,13 @@
+#main #img-div {}
+#main #image {}
+#main #img-caption {}
+#main #tribute-info {}
+#main #tribute-link {}
+
+#image
+{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 0 auto;
+}
